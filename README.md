@@ -11,7 +11,7 @@ A professional, responsive, and feature-rich bill invoice generator built with R
 ## 🚀 Live Demo
 
 Check out the live application:  
-[[https://your-username.github.io/invoice-app](https://your-username.github.io/invoice-app)](https://bill-invoice-test.netlify.app/)
+(https://bill-invoice-test.netlify.app/)
 
 ## ✨ Features
 
